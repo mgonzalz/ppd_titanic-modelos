@@ -21,3 +21,5 @@ Las columnas son las siguientes:
 - Fare: importe del billete
 - Cabin: camarote en el que viajaba
 - Embarked: puerto en el que embarcó
+
+Se compararán todos los modelos de clasificación vistos hasta ahora, evaluando su precisión y determinando cuál es el enfoque más efectivo para analizar los datos.
